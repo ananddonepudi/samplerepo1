@@ -1,4 +1,4 @@
-Name:               prometheus-prometheus-kube-prometheus-prometheus
+Name:               prometheus-prometheus-kube-prometheus-prometheus-upd
 Namespace:          default
 CreationTimestamp:  Thu, 10 Oct 2024 21:49:17 +0530
 Selector:           app.kubernetes.io/instance=prometheus-kube-prometheus-prometheus,app.kubernetes.io/managed-by=prometheus-operator,app.kubernetes.io/name=prometheus,operator.prometheus.io/name=prometheus-kube-prometheus-prometheus,operator.prometheus.io/shard=0,prometheus=prometheus-kube-prometheus-prometheus
